@@ -3,3 +3,9 @@ h1 {
     background-color: blue;
     width: 100px;
 }
+
+button {
+    background-color: yellow;
+    color: white;
+    width: 250px;
+}
